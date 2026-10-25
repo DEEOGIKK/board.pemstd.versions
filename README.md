@@ -31,10 +31,7 @@ To-do list lokal, solo & simpel — dari developer, untuk developer.
 
 | Versi | Tanggal | Platform | Unduh | Catatan |
 | :-- | :-- | :-- | :-- | :-- |
-| **vX.Y.Z** `latest` | YYYY-MM-DD | Windows | [⬇ Installer (.exe)](https://github.com/DEEOGIKK/board.pemstd.versions/releases/latest) | Rilis terbaru |
-| vX.Y.Z | YYYY-MM-DD | Windows | [⬇ Installer (.exe)](https://github.com/DEEOGIKK/board.pemstd.versions/releases/tag/vX.Y.Z) | Catatan singkat versi ini |
-
-<sub>Ganti `USERNAME`, `vX.Y.Z`, dan tanggal dengan data rilis aslimu. Tambah satu baris baru di atas setiap ada versi baru.</sub>
+| **v2.1** `latest` | 2026-10-25 | Windows | [⬇ Installer (.exe)](https://github.com/DEEOGIKK/board.pemstd.versions/releases/latest) | Rilis terbaru |
 
 ---
 
@@ -67,7 +64,7 @@ Dukungan dan donasi dari kalian membantu kami melihat seberapa penting aplikasi 
 
 ## ❤️ Dukung Pengembangan
 
-Aplikasi ini gratis selamanya. Kalau terbantu, kamu bisa mendukung pengembangannya lewat [**pemstd.my.id**](https://pemstd.my.id).
+Aplikasi ini gratis selamanya. Kalau terbantu, kamu bisa mendukung pengembangannya lewat donasi di halaman [**board.pemstd.my.id**](https://board.pemstd.my.id).
 
 ---
 
