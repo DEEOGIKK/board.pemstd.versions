@@ -27,12 +27,12 @@ To-do list lokal, solo & simpel — dari developer, untuk developer.
 
 ## ⬇ Download
 
-> Versi terbaru selalu ada di paling atas. File installer ada di halaman [**Releases**](https://github.com/USERNAME/board.pemstd.versions/releases).
+> Versi terbaru selalu ada di paling atas. File installer ada di halaman [**Releases**](https://github.com/DEEOGIKK/board.pemstd.versions/releases).
 
 | Versi | Tanggal | Platform | Unduh | Catatan |
 | :-- | :-- | :-- | :-- | :-- |
-| **vX.Y.Z** `latest` | YYYY-MM-DD | Windows | [⬇ Installer (.exe)](https://github.com/USERNAME/board.pemstd.versions/releases/latest) | Rilis terbaru |
-| vX.Y.Z | YYYY-MM-DD | Windows | [⬇ Installer (.exe)](https://github.com/USERNAME/board.pemstd.versions/releases/tag/vX.Y.Z) | Catatan singkat versi ini |
+| **vX.Y.Z** `latest` | YYYY-MM-DD | Windows | [⬇ Installer (.exe)](https://github.com/DEEOGIKK/board.pemstd.versions/releases/latest) | Rilis terbaru |
+| vX.Y.Z | YYYY-MM-DD | Windows | [⬇ Installer (.exe)](https://github.com/DEEOGIKK/board.pemstd.versions/releases/tag/vX.Y.Z) | Catatan singkat versi ini |
 
 <sub>Ganti `USERNAME`, `vX.Y.Z`, dan tanggal dengan data rilis aslimu. Tambah satu baris baru di atas setiap ada versi baru.</sub>
 
@@ -40,7 +40,7 @@ To-do list lokal, solo & simpel — dari developer, untuk developer.
 
 ## 🛠 Instalasi (Windows)
 
-1. Buka halaman [Releases](https://github.com/USERNAME/board.pemstd.versions/releases) dan unduh installer versi yang kamu mau.
+1. Buka halaman [Releases](https://github.com/DEEOGIKK/board.pemstd.versions/releases) dan unduh installer versi yang kamu mau.
 2. Jalankan file `.exe` yang sudah diunduh, lalu ikuti petunjuk di layar.
 3. Jika Windows menampilkan peringatan **SmartScreen**, klik **More info → Run anyway**.
 4. Buka **PEMSTD BOARD**, buat project baru (`Ctrl+S`) atau buka file project lokal yang sudah ada.
