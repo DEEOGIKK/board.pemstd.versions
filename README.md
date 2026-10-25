@@ -9,7 +9,7 @@
 
 `local · solo · simple`
 
-# board.pemstd.versions
+# board.pemstd
 
 Daftar versi **PEMSTD BOARD** yang siap di-download dan di-install.<br>
 To-do list lokal, solo & simpel — dari developer, untuk developer.
